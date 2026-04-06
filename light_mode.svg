@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="980" height="490" viewBox="0 0 980 490">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="490" viewBox="0 0 980 490">
  
   <rect width="980" height="490" rx="10" fill="#ffffff"/>
   <rect width="980" height="490" rx="10" fill="none" stroke="#d0d7de" stroke-width="1"/>
@@ -8,8 +7,7 @@
   <circle cx="24" cy="20" r="5" fill="#ff5f57"/>
   <circle cx="42" cy="20" r="5" fill="#ffbd2e"/>
   <circle cx="60" cy="20" r="5" fill="#28c840"/>
-  <text x="490" y="24" fill="#57606a" font-family="monospace" font-size="11"
-        text-anchor="middle">sooryathejas@github — zsh</text>
+  <text x="490" y="24" fill="#57606a" font-family="monospace" font-size="11" text-anchor="middle">sooryathejas@github — zsh</text>
   <line x1="0" y1="34" x2="980" y2="34" stroke="#d0d7de" stroke-width="1"/>
 
  <text font-family="monospace" font-size="4.5" fill="#c0392b">
@@ -184,21 +182,20 @@
  
   <text x="525" y="374" font-family="monospace" font-size="11">
     <tspan fill="#0550ae">Repos: </tspan>
-    <tspan fill="#24292f" id="repos">0</tspan>
+    <tspan fill="#24292f" id="repos">3</tspan>
     <tspan fill="#57606a">  {Contributed: </tspan>
-    <tspan fill="#24292f" id="contrib">0</tspan>
+    <tspan fill="#24292f" id="contrib">3</tspan>
     <tspan fill="#57606a">}  |  </tspan>
     <tspan fill="#0550ae">Stars: </tspan>
-    <tspan fill="#24292f" id="stars">0</tspan>
+    <tspan fill="#24292f" id="stars">1,114</tspan>
   </text>
  
   <text x="525" y="396" font-family="monospace" font-size="11">
     <tspan fill="#0550ae">Commits: </tspan>
-    <tspan fill="#24292f" id="commits">0</tspan>
+    <tspan fill="#24292f" id="commits">68</tspan>
     <tspan fill="#57606a">  |  </tspan>
     <tspan fill="#0550ae">Followers: </tspan>
-    <tspan fill="#24292f" id="followers">0</tspan>
+    <tspan fill="#24292f" id="followers">95</tspan>
   </text>
  
 </svg>
- 
