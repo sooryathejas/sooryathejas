@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="860" height="460" viewBox="0 0 860 460">
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="460" viewBox="0 0 860 460">
 
   <rect width="860" height="460" rx="10" fill="#ffffff"/>
   <rect width="860" height="460" rx="10" fill="none" stroke="#d0d7de" stroke-width="1"/>
@@ -8,8 +7,7 @@
   <circle cx="24" cy="20" r="5" fill="#ff5f57"/>
   <circle cx="42" cy="20" r="5" fill="#ffbd2e"/>
   <circle cx="60" cy="20" r="5" fill="#28c840"/>
-  <text x="430" y="24" fill="#57606a" font-family="monospace" font-size="11"
-        text-anchor="middle">sooryathejas@github — zsh</text>
+  <text x="430" y="24" fill="#57606a" font-family="monospace" font-size="11" text-anchor="middle">sooryathejas@github — zsh</text>
   <line x1="0" y1="34" x2="860" y2="34" stroke="#d0d7de" stroke-width="1"/>
 
   <!-- ASCII art — dark text on white background, letter-spacing tight -->
@@ -121,7 +119,7 @@
   <text x="292" y="102" font-family="monospace" font-size="12">
     <tspan fill="#0550ae">Uptime:</tspan>
     <tspan fill="#57606a">  .................. </tspan>
-    <tspan fill="#24292f" id="age">20 years, 11 months, 30 days</tspan>
+    <tspan fill="#24292f" id="age">21 years, 0 months, 0 days 🎂</tspan>
   </text>
 
   <text x="292" y="122" font-family="monospace" font-size="12">
@@ -184,20 +182,20 @@
 
   <text x="292" y="360" font-family="monospace" font-size="12">
     <tspan fill="#0550ae">Repos: </tspan>
-    <tspan fill="#24292f" id="repos">0</tspan>
+    <tspan fill="#24292f" id="repos">3</tspan>
     <tspan fill="#57606a">  {Contributed: </tspan>
-    <tspan fill="#24292f" id="contrib">0</tspan>
+    <tspan fill="#24292f" id="contrib">3</tspan>
     <tspan fill="#57606a">}  |  </tspan>
     <tspan fill="#0550ae">Stars: </tspan>
-    <tspan fill="#24292f" id="stars">0</tspan>
+    <tspan fill="#24292f" id="stars">2,205</tspan>
   </text>
 
   <text x="292" y="384" font-family="monospace" font-size="12">
     <tspan fill="#0550ae">Commits: </tspan>
-    <tspan fill="#24292f" id="commits">0</tspan>
+    <tspan fill="#24292f" id="commits">68</tspan>
     <tspan fill="#57606a">  |  </tspan>
     <tspan fill="#0550ae">Followers: </tspan>
-    <tspan fill="#24292f" id="followers">0</tspan>
+    <tspan fill="#24292f" id="followers">153</tspan>
   </text>
 
 </svg>
