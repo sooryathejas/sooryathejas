@@ -119,7 +119,7 @@
   <text x="525" y="114" font-family="monospace" font-size="11">
     <tspan fill="#0550ae">Uptime:</tspan>
     <tspan fill="#57606a">  ................... </tspan>
-    <tspan fill="#24292f" id="age">20 years, 11 months, 30 days</tspan>
+    <tspan fill="#24292f" id="age">21 years, 0 months, 0 days 🎂</tspan>
   </text>
  
   <text x="525" y="134" font-family="monospace" font-size="11">
@@ -187,7 +187,7 @@
     <tspan fill="#24292f" id="contrib">3</tspan>
     <tspan fill="#57606a">}  |  </tspan>
     <tspan fill="#0550ae">Stars: </tspan>
-    <tspan fill="#24292f" id="stars">2,196</tspan>
+    <tspan fill="#24292f" id="stars">2,204</tspan>
   </text>
  
   <text x="525" y="396" font-family="monospace" font-size="11">
@@ -195,7 +195,7 @@
     <tspan fill="#24292f" id="commits">68</tspan>
     <tspan fill="#57606a">  |  </tspan>
     <tspan fill="#0550ae">Followers: </tspan>
-    <tspan fill="#24292f" id="followers">152</tspan>
+    <tspan fill="#24292f" id="followers">153</tspan>
   </text>
  
 </svg>
