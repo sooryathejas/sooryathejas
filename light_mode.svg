@@ -13,7 +13,7 @@
   <line x1="0" y1="34" x2="860" y2="34" stroke="#d0d7de" stroke-width="1"/>
 
   <!-- ASCII art — dark text on white background, letter-spacing tight -->
-  <text font-family="monospace" font-size="4.5" fill="#24292f" letter-spacing="-0.1">
+  <text font-family="monospace" font-size="4.5" fill="#1f2937" letter-spacing="-0.1">
     <tspan x="8" dy="0" y="52">@@@@@@@%@@@@@@@*+%+#@@@@@@@@@%@%@@@@@@@@%%@@@@@#%@%%##*+##****+=*#%@%##@@**#*+%%#*%@@%%@@%%@@@@@@@@@</tspan>
     <tspan x="8" dy="5">+@@@*+#*@@==+=@@@@%@@@@@@@@@@@@@@%%%@%%%@@%%%%%%%%###**==+*++=*###*%%**@@@%#*%@@##@@@@@@@@@@@@@@@@%%</tspan>
     <tspan x="8" dy="5">@@@@@+#=%#++==+@%*@@@@@@@@@@@@@%@@@@@@@@@@@@@@%%**+***##%*##*+*%#@#%%%%##%#@%#%%@@@@@@@%%@@#@%**#**+</tspan>
