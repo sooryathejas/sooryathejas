@@ -121,7 +121,7 @@
   <text x="292" y="102" font-family="monospace" font-size="12">
     <tspan fill="#58a6ff">Uptime:</tspan>
     <tspan fill="#6e7681">  .................. </tspan>
-    <tspan fill="#e6edf3" id="age">21 years, 0 months, 6 days</tspan>
+    <tspan fill="#e6edf3" id="age">21 years, 0 months, 7 days</tspan>
   </text>
 
   <text x="292" y="122" font-family="monospace" font-size="12">
