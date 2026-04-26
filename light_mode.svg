@@ -119,7 +119,7 @@
   <text x="292" y="102" font-family="monospace" font-size="12">
     <tspan fill="#0550ae">Uptime:</tspan>
     <tspan fill="#57606a">  .................. </tspan>
-    <tspan fill="#24292f" id="age">21 years, 0 months, 13 days</tspan>
+    <tspan fill="#24292f" id="age">21 years, 0 months, 14 days</tspan>
   </text>
 
   <text x="292" y="122" font-family="monospace" font-size="12">
@@ -187,7 +187,7 @@
     <tspan fill="#24292f" id="contrib">3</tspan>
     <tspan fill="#57606a">}  |  </tspan>
     <tspan fill="#0550ae">Stars: </tspan>
-    <tspan fill="#24292f" id="stars">2,584</tspan>
+    <tspan fill="#24292f" id="stars">2,586</tspan>
   </text>
 
   <text x="292" y="384" font-family="monospace" font-size="12">
