@@ -187,7 +187,7 @@
     <tspan fill="#24292f" id="contrib">4</tspan>
     <tspan fill="#57606a">}  |  </tspan>
     <tspan fill="#0550ae">Stars: </tspan>
-    <tspan fill="#24292f" id="stars">3,511</tspan>
+    <tspan fill="#24292f" id="stars">3,520</tspan>
   </text>
 
   <text x="292" y="384" font-family="monospace" font-size="12">
@@ -195,7 +195,7 @@
     <tspan fill="#24292f" id="commits">70</tspan>
     <tspan fill="#57606a">  |  </tspan>
     <tspan fill="#0550ae">Followers: </tspan>
-    <tspan fill="#24292f" id="followers">236</tspan>
+    <tspan fill="#24292f" id="followers">237</tspan>
   </text>
 
 </svg>
